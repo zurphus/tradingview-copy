@@ -1,0 +1,89 @@
+.whole-tab-structure{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: arial;
+}
+
+.first-tab{
+    display: block;
+    border: solid;
+    border-radius: 25px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-color: rgb(63, 63, 63);
+    border-width: 1px;
+    width: 590px;
+    height: 450px;
+    max-lines: 2;
+}
+
+.second-tab{
+    width: 590px;
+    height: 450px;
+    display: block;
+    border: solid;
+    border-radius: 25px;
+    border-color: rgb(63, 63, 63);
+    border-width: 1px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+
+.tab-img-container{
+    display: block;
+   margin-top: 50px;
+   margin-left: 40px;
+}
+.tab-img-container-2{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.globe-img{
+    width: 120px;
+    border-radius: 50px;
+    display: block;
+}
+.second-tab-img{
+    width: 130px;
+    height: 117px;
+    object-fit: cover;
+}
+
+.tab-text-container{
+    margin-left: 50px;
+}
+
+.tab-text-1{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0;
+    margin-top: 50px;
+}
+.tab-text-2{
+    color: rgb(123, 124, 129);
+    font-weight: bold;
+    margin: 0;
+    margin-top: 20px;
+}
+.tab-first-link-3{
+    color: rgb(33, 103, 255);
+    font-weight: bold;
+    margin-top: 25px;
+    display: inline-block;
+}
+.tab-second-link-3{
+    color: rgb(33, 103, 255);
+    font-weight: bold;
+    margin-top: 25px;
+    display: inline-block;
+}
+
+.tab-first-link-3:hover{
+    color: rgb(11, 88, 255);
+}
+.tab-second-link-3:hover{
+    color: rgb(11, 88, 255);
+}

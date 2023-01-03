@@ -1,0 +1,91 @@
+
+.bottomness{
+    display: flex;
+    justify-content: center;
+    margin-top: 160px;
+}
+
+
+.doleapp-img{
+    display: flex;
+    width: 1212;
+    height: 762px;
+}
+
+.bottom-middle-content{
+    vertical-align: middle;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 175px;
+}
+
+.img-chrome{
+    width: 30px;
+    object-fit: cover;
+}
+
+.des-text{
+    font-family: arial;
+    color: gray;
+    text-align: center; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.googleapple-link-container{
+    border: 1px solid #5d606b;
+    border-radius: 4px;
+    margin-right: 10px;
+    transition: 0.25s;
+}
+
+.googleapple-link-container:hover{
+    background-color: #2b313a;
+    border-color: #2b313a;
+}
+
+
+
+
+.bottom-main-text{
+    text-align: center; 
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: arial;
+    margin: auto;
+    margin-bottom: 50px;
+    width: 500px;
+}
+
+.bottom-des-text{
+    text-align: center; 
+    color: white;
+    color: #c1c3cc;
+    font-size: 27px;
+    font-family: arial;
+    width: 540px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.tablet-img{
+    margin-top: 100px;
+    height: 900px;
+    margin-right: 10px;
+}
+
+
+
+
+
+.phone-img-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    position: relative;
+}
+
+.phone-img{
+    width: 250px;
+}

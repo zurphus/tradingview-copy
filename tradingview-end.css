@@ -1,0 +1,159 @@
+a{
+    color: white;
+    font-family: arial;
+}
+
+p{
+    color: white;  
+    font-family: arial;
+}
+
+.border-enddsa{
+    border-top: 1px solid #434651;
+    border-bottom: 1px solid #434651;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: -110px;
+    left: 0;
+    right: 0;
+    background-color: black;
+}
+
+.container-dsa{
+    display: grid;
+    grid-template-columns:250px 210px 220px 210px;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 45px;
+}
+
+.whole-end-dsa{
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+    margin-bottom: 30px;
+}
+
+.end-rightside-dsa{
+    display: grid;
+    grid-template-columns:150px 150px 150px;
+}
+
+
+.social-media-container-dsa{
+    display: grid;
+    grid-template-columns: repeat(4, 50px);
+    column-gap: 0px;
+}
+
+.first-page-link-dsa{
+    display: flex;
+    text-align: center;
+}
+
+
+.end-a-link-dsa{
+    width: 50px;
+
+}
+
+
+.social-media-container-margin{
+    margin-top: 5px;
+}
+
+.social-link-container-dsa{
+    display: grid;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    place-items: center;
+}
+.social-link-container-dsa:hover{
+    background-color: #434651;
+}
+
+
+.twitter-img{
+width: 33px;
+}
+.facebook-img{
+width: 28px;
+}
+.youtube-img{
+width: 25px;
+}
+.instagram-img{
+width: 21px;
+}
+.telegram-img{
+width: 21px;
+}
+.tiktok-img{
+width: 20px;
+}
+.reddit-img{
+width: 22px;
+}
+.discord-img{
+width: 22px;
+}
+.linkedin-img{
+width: 20px;
+}
+
+.end-a-link{
+    padding: 4px 4px 4px 4px;
+    border-radius: 5px;
+    color: #d1d4dc;
+}
+.tradingviewdesktop-link{
+    padding: 4px 0 4px 4px;
+    border-radius: 5px;
+    color: #1848cc;
+}
+
+.tradingviewdesktop-link:hover{
+    background-color: #434651;
+}
+.end-a-link:hover{
+    background-color: #434651;
+}
+
+.end-link-list{
+    text-align: left;
+}
+
+.tradingview-full-logo-dsa{
+    width: 165px;
+}
+.tradingview-full-logo-container{
+    width: 165px;
+}
+
+.a-tradingview{
+    width: 165px;
+}
+
+.tradinview-logo-margin-container{
+    margin-left: 10px;
+}
+
+.space-link-list{
+    color: white;
+    font-size: 0px;
+    margin: 0;
+    padding: 0;
+}
+
+.end-list-maintext{
+    font-size: 17px;
+    font-weight: bold;
+    color: #d1d4dc;
+}
+
+.end-list-maintext1{
+    font-weight: bold;
+}
